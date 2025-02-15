@@ -6,7 +6,6 @@
 This repository contains the source code for a Blog Platform. This platform allows users to create, edit, and share their own blog posts. The application is built with Next.js 14 and uses MongoDB as the database with Prisma ORM for data management.
 
 
-![image](https://github.com/riteshk-007/Blog-Platform/assets/135107962/c4af6921-6dd0-4b1a-a47c-16c1c9a295e7)
 
 ## Features
 - User Authentication: Register and log in to your account securely.
